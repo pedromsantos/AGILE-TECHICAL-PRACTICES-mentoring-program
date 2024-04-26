@@ -25,7 +25,7 @@ In this module, we learn how to use test-driven development (TDD) and apply TDD 
 
 ### Object Oriented Design (OOD)
 
-In this module, we move beyond the basic concepts of OOD (encapsulation, inheritance, and polymorphism) and use TDD to create more complex programs using OOD. we also introduce Acceptance tests.
+In these sessions, we move beyond the basic concepts of OOD (encapsulation, inheritance, and polymorphism) and use TDD to create more complex programs using OOD. we also introduce Acceptance tests.
 
 - Object calisthenics
 - Code smells
@@ -36,7 +36,7 @@ In this module, we move beyond the basic concepts of OOD (encapsulation, inherit
 
 ### Legacy Code
 
-In this module, we explore techniques to deal with legacy code, namely how to test legacy code and how to refactor legacy code safely.
+In these sessions, we explore techniques to deal with legacy code, namely how to test legacy code and how to refactor legacy code safely.
 
 - Refactor readability
 - Characterization tests
@@ -47,7 +47,7 @@ In this module, we explore techniques to deal with legacy code, namely how to te
 
 ### Outside in development
 
-In this module, we move from building things right to creating the right things. Building things right is a more technical journey and revolves around the principles covered. Outside-In is a development mindset, focused by default on the business view, naturally bridging the gap between the two worlds. This mindset derives from the Outside-In TDD approach, called “London school”. It is an alternative approach to Classic TDD, leading us to consider a point of view external to our system, starting with the design of the public interface. This forces the developer to put himself in the user's shoes, considering his needs first.
+In these sessions, we move from building things right to creating the right things. Building things right is a more technical journey and revolves around the principles covered. Outside-In is a development mindset, focused by default on the business view, naturally bridging the gap between the two worlds. This mindset derives from the Outside-In TDD approach, called “London school”. It is an alternative approach to Classic TDD, leading us to consider a point of view external to our system, starting with the design of the public interface. This forces the developer to put himself in the user's shoes, considering his needs first.
 
 - Mocks and stubs
 - London School of TDD
