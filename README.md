@@ -66,7 +66,7 @@ Each bullet point corresponds to a session in the program. This is a very hands-
 | **Walking sessions**             | **Katas**                     | **Running sessions**                                         | **Katas**        | **Flying sessions**        | **Katas**        |
 | -------------------------------- | ----------------------------- | ------------------------------------------------------------ | ---------------- | -------------------------- | ---------------- |
 | Basic TDD                        | FizzBuzz, Leap year           | Legacy code I - Refactor readability                         | Tennis           | Coupling and cohesion      | Theory           |
-| Effective TDD I                  | Fibonacci                     | Legacy code II - Characterization tests                       | Gilded Rose      | Connascence                | Theory           |
+| Effective TDD I                  | Fibonacci                     | Legacy code II - Characterization tests                      | Gilded Rose      | Connascence                | Theory           |
 | Effective TDD III                | Stack                         | Legacy code III - Golden master, Approval and Mutation Tests | Gilded Rose      | SOLID                      | Theory           |
 | Transformation Priority Premises | Roman numerals, prime factors | Legacy Code IV - Seams                                       | Raid Service     | Mocks and stubs            | Character Copier |
 | Object calisthenics I            | TicTacToe                     | Legacy Code VI - Patterns                                    | Gilded Rose      | London School of TDD I     | ESA Mars Rover   |
@@ -91,4 +91,3 @@ The exercises are on my GitHub account.
 - [Java katas](https://github.com/pedromsantos/java-kata)
 - [C# katas](https://github.com/pedromsantos/cs-kata)
 - [Typescript katas](https://github.com/pedromsantos/ts-kata)
-
