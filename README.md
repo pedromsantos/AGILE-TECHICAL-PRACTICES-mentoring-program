@@ -77,6 +77,13 @@ Each bullet point corresponds to a session in the program. This is a very hands-
 | TDD Final exercise II            | Mars Rover                    | Legacy Code V - Refactoring moves                            | Smelly TicTacToe | Hexagonal Architecture I   | Theory           |
 |                                  |                               | Design Patterns I - State and Factory patterns               | Mars Rover       | Hexagonal Architecture II  | Social Network   |
 |                                  |                               | Design Pattern II - Command pattern                          | Mars Rover       | Hexagonal Architecture III | Social Network   |
+|                                  |                               |                                                              |                  | Hexagonal Architecture IV  | Social Network   |
+|                                  |                               |                                                              |                  | Hexagonal Architecture V   | Social Network   |
+|                                  |                               |                                                              |                  | Hexagonal Architecture VI  | Katacombs        |
+|                                  |                               |                                                              |                  | Hexagonal Architecture VII | Katacombs        |
+|                                  |                               |                                                              |                  | Hexagonal Architecture VIII| Katacombs        |
+|                                  |                               |                                                              |                  | Hexagonal Architecture IX  | Katacombs        |
+|                                  |                               |                                                              |                  | Hexagonal Architecture X   | Katacombs        |
 
 ## Format
 
