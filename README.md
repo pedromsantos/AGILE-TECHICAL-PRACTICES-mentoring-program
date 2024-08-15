@@ -1,12 +1,14 @@
-# AGILE TECHNICAL PRACTICES mentoring sessions
+# Agile Technical Practices 
+
+## mentoring sessions
 
 If you are interested in going through this program with me as a mentor, please reach out to me on [mentorcruise.com](https://mentorcruise.com/mentor/pedrosantos/) and book a session
 
 ## Program
 
-The program is structured like a journey. As with every journey into a new territory, the beginning is slow and safe, but it is crucial for setting the stage for what comes next. The adventure gains momentum as confidence grows, learning new subjects that introduce new techniques and principles to advance more steadily. In the last sessions, we are finally ready to tackle bigger problems that require the application of all the learnings together.
+The program is structured like a journey. As with every journey into a new territory, the beginning is slow and safe, but it is crucial for setting the stage for what comes next. The adventure gains momentum as confidence grows, learning new subjects that introduce new techniques and principles to advance more steadily. In the last sessions, we are finally ready to tackle more significant problems that require the application of all the learnings together.
 
-Each module is divided into several sessions with a common structure:
+Each module is divided into several sessions with a standard structure:
 
 - New material
   - New concepts are added to the previous materials.
@@ -17,7 +19,7 @@ Each module is divided into several sessions with a common structure:
 
 ### TDD
 
-In this module, we learn how to use test-driven development (TDD) and apply TDD to create algorithms. Classic TDD is the original approach to TDD created by Kent Beck also known as the Detroit/Chicago School of TDD.
+In this module, we learn how to use test-driven development (TDD) and apply TDD to create algorithms. Classic TDD is the original approach to TDD created by Kent Beck, also known as the Detroit/Chicago School of TDD.
 
 - Basic TDD
 - Effective TDD
@@ -25,7 +27,7 @@ In this module, we learn how to use test-driven development (TDD) and apply TDD 
 
 ### Object Oriented Design (OOD)
 
-In these sessions, we move beyond the basic concepts of OOD (encapsulation, inheritance, and polymorphism) and use TDD to create more complex programs using OOD. we also introduce Acceptance tests.
+In these sessions, we move beyond the basic concepts of OOD (encapsulation, inheritance, and polymorphism) and use TDD to create more complex programs using OOD. We also introduce Acceptance tests.
 
 - Object calisthenics
 - Code smells
@@ -61,7 +63,7 @@ In this module, we explore advanced design concepts, such as Domain-driven desig
 
 ## Delivery order and katas
 
-Each bullet point corresponds to a session in the program. This is a very hands-on program. Almost every concept has an associated kata, sometimes multiple katas, to apply the concept and solidify the learning.
+Each bullet point corresponds to a session in the program. This is a very hands-on program. Almost every concept has an associated kata, sometimes multiple katas, to apply the idea and solidify the learning.
 
 | **Walking sessions**             | **Katas**                     | **Running sessions**                                         | **Katas**        | **Flying sessions**        | **Katas**        |
 | -------------------------------- | ----------------------------- | ------------------------------------------------------------ | ---------------- | -------------------------- | ---------------- |
