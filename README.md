@@ -100,3 +100,4 @@ The exercises are on my GitHub account.
 - [Java katas](https://github.com/pedromsantos/java-kata)
 - [C# katas](https://github.com/pedromsantos/cs-kata)
 - [Typescript katas](https://github.com/pedromsantos/ts-kata)
+- [Python katas](https://github.com/pedromsantos/python-kata)
